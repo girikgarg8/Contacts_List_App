@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#page-header {
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
+
+#list {
+    margin: 0 auto;
+    background-color: skyblue;
+    list-style: none;
+    height: 30px;
+    width: 250px;
+    color: white;
+    font-size: 15px;
+}
+
+#name {
+    padding: 5px;
+}
+
+#phone {
+    position: absolute;
+    left: 54%;
+}
+
+#form-style {
+    text-align: center;
+}
+
+li a {
+    color: white;
+    background-color: red;
+}
